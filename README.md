@@ -9,7 +9,7 @@ homework - https://docs.google.com/spreadsheets/d/1tQuKuF5mfR7tKrjbTe95RJB4HghsO
 homework - Restaurant Owners.(create database and use queries to analyze data) https://replit.com/@PapaRuji/SQLhomeworkbatch6-1#main.sql
 
  R Programming : homework 
-Chatbot for customers to order pizza.- https://replit.com/@PapaRuji/Batch06ChatbotPizza#main.r
+Chatbot for customers to order pizza.- https://replit.com/@PapaRuji/Batch06ChatbotPizza#main.r   
 Play game with Bot (Rock Papaer Scissors)- https://replit.com/@PapaRuji/Bootcamp06paoyingchub#main.r
 
  Data Transformation  
