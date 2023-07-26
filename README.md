@@ -18,13 +18,6 @@ homework - Analyze Flights dataset in R package. : https://colab.research.google
 Data Visualization 
 homework - Exploratory Data Analysis with Diamonds dataset in R package.: https://drive.google.com/file/d/1ZSv1KTTBkhx2INmJV1dvXBrsv96J2SB3/view?usp=sharing
 
- Statistics 
-
- Machine Learning
-
  Python : homework 
 play game with Bot (Rock Papaer Scissors) and (OOP) ATM Class.
 https://colab.research.google.com/drive/1aajV3pI056oqCjKUEmymaqcBvDzgDYXo?usp=sharing
-
- Dashboard
-homework -coming soon
